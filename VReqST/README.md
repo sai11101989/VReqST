@@ -12,8 +12,8 @@
      $ npm run dev
 -|> Now to start the validation_server on Port 5000 . Again,Go Inside the Validation_server folder
 -|> Open the terminal and Run
-    $ npm install
-    $ nodemon index.js
+     $ npm install
+     $ nodemon index.js
 ```
 
-to start the local server at http://localhost:3000/
+to start the local server at http://localhost:3000/ and Validation_server at http://localhost:5000
