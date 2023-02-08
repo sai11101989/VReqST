@@ -1,4 +1,4 @@
-# ValiJSON
+# VReqST
 
 ### Steps to execute
 
