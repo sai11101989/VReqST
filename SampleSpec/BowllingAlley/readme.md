@@ -1,4 +1,4 @@
-BowllingAlley : It is a facility where the sport of bowling is played. It can be a dedicated facility or part of another, such as a clubhouse or dwelling house. Following is the mockup screens along with VR Scene snippets. 
+BowllingAlley : It is a facility where the sport of bowling is played. It can be a dedicated facility or part of another, such as a clubhouse or dwelling house. This repo contains requirements specifications of a VR simulation of Bowlling Alley game. The source code and their underlying sample VR Scene screen snippets are listed below:
 
 Source Code: https://github.com/sai11101989/BowlingAlleyVRFinal
 
